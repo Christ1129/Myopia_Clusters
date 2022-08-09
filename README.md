@@ -14,7 +14,9 @@ Dimensionality was then reduced using PCA (Principal Component Analysis) and the
 
 <img width="287" alt="Screenshot 2022-08-09 13 27 16" src="https://user-images.githubusercontent.com/100292828/183726480-99605d82-015b-4c35-9e3b-02f38aebf475.png">
 
-In Part 3 I Performed a Cluster Analysis with K-means
+ In Part 3 I Performed a Cluster Analysis with K-means
+ I Created an elbow plot to identify the best number of clusters
+
 <img width="335" alt="Screenshot 2022-08-09 13 27 43" src="https://user-images.githubusercontent.com/100292828/183725854-d613235c-e862-4ea6-b009-2b1e185925ec.png">
 
 ### Recommendation
