@@ -10,13 +10,19 @@ In part 1 I prepared the data
 * I Removed the "MYOPIC" column from the dataset.
 
 In part 2 I applied Dimensionality Reduction
-Dimensionality was then reduced using PCA (Principal Component Analysis) and then data clustering using t-SNE (t-distributed Stochastic Neighbor Embedding) was completed
+Dimensionality was then reduced using PCA (Principal Component Analysis) and then data clustering using t-SNE (t-distributed Stochastic Neighbor Embedding) was completed. By looking at the scatter plot, it can be seen that there are 5 distincts clusters.
 
-<img width="335" alt="Screenshot 2022-08-09 13 27 43" src="https://user-images.githubusercontent.com/100292828/183725854-d613235c-e862-4ea6-b009-2b1e185925ec.png">
-By looking at the scatter plot, it can be seen that there are 5 distincts clusters
-
-In Part 3 I Part 3 I Performed a Cluster Analysis with K-means
 <img width="287" alt="Screenshot 2022-08-09 13 27 16" src="https://user-images.githubusercontent.com/100292828/183726480-99605d82-015b-4c35-9e3b-02f38aebf475.png">
 
+In Part 3 I Performed a Cluster Analysis with K-means
+<img width="335" alt="Screenshot 2022-08-09 13 27 43" src="https://user-images.githubusercontent.com/100292828/183725854-d613235c-e862-4ea6-b009-2b1e185925ec.png">
+
 ### Recommendation
+
 By observing the Elbow plot, it seems like the Elbow is at 3 suggesting that numbers of clusters should be 3,that is k=3. Based on the result of the clustering algorithm, the patients can be clustered into 3 groups.
+
+<hr>
+Contact : 
+
+* tourteau.christian@gmail.com
+* https://www.linkedin.com/in/christian-tourteau/
